@@ -59,3 +59,17 @@ input:focus{
     outline: none;
     border-color: 0d6efd;
 }
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: black;
+}
+#clearCompleted{
+    background: gray;
+    color: black;
+    margin-top: 20px;
+    font-size: 15px;
+}
